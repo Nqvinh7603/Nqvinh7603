@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently a student majoring in software engineering at Can Tho University
-🌱 Learning more about Web Development.
-✍️ Pursuing Back-end Developer as a job, a passion. 
+- 🔭 I’m currently a student majoring in software engineering at Can Tho University
+- 🌱 Learning more about Web Development.
+- ✍️ Pursuing Back-end Developer as a job, a passion. 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009526542607) 
