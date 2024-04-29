@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vinh and I'm a Java Developer</p>
+<p align="left">My name is Vinh and I'm a chick undergoing Java training at PTN GLOBAL Company</p>
 
 ###
 
