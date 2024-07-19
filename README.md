@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ Exploring new technologies and developing software solutions.<br>🎓 I’m currently a student majoring in software engineering at Can Tho University<br>🌱 Learning more about Web Development and Blockchain.<br>✍️ Pursuing Back-end Developer as a job, a passion.</p>
+<p align="left">✨ Exploring new technologies and developing software solutions.<br>🎓 I’m currently a student majoring in software engineering at Can Tho University<br>🌱 Learning more about Web Development and Blockchain.<br>✍️ Pursuing Back-end Developer as a job, a passion.<br>📫 Reach me at <a href="nqvinh7603@gmail.com">nqvinh7603@gmail.com</a></p>
 
 ###
 
