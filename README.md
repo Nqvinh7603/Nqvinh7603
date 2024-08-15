@@ -56,10 +56,4 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
 </p>
 
-###
 
-<h2>My Github Stats:</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nqvinh7603&show_icons=true&locale=en&layout=compact" alt="Nqvinh7603" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nqvinh7603&" alt="Nqvinh7603" /></p>
