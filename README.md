@@ -21,11 +21,10 @@ Java Backend Engineer with 3 years across interbank payments, digital signature,
 
 | Project | What it is | What I did |
 | --- | --- | --- |
-| [**Straffico**](https://vinhnq.com/projects/straffico/) | Project and cost control for construction | Blue-green production releases with GitHub Actions |
-| [**S-Space**](https://vinhnq.com/projects/s-space/) | Pilates and fitness studio SaaS | Production AWS on ECS Fargate, payment reconciliation |
-| [**ACH Gateway**](https://vinhnq.com/projects/ach-gateway/) | NAPAS interbank payment gateway | ISO 20022 inward deposits, reconciliation |
-| [**BitBuild**](https://vinhnq.com/projects/bitbuild/) | Multi-tenant procurement SaaS | Hexagonal architecture, idempotent purchase flows |
 | [**Signature Hub**](https://vinhnq.com/projects/signature-hub/) | Centralized digital signing platform | Event-driven signing on Kafka, HSM integration |
+| [**ACH Gateway**](https://vinhnq.com/projects/ach-gateway/) | NAPAS interbank payment gateway | ISO 20022 inward deposits, reconciliation |
+| [**S-Space**](https://vinhnq.com/projects/s-space/) | Pilates and fitness studio SaaS | Production AWS on ECS Fargate, payment reconciliation |
+| [**BitBuild**](https://vinhnq.com/projects/bitbuild/) | Multi-tenant procurement SaaS | Hexagonal architecture, idempotent purchase flows |
 
 [See all projects and live system simulations →](https://vinhnq.com/projects/)
 
@@ -38,3 +37,7 @@ Java Backend Engineer with 3 years across interbank payments, digital signature,
 **Cloud and DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,linux,nginx" alt="AWS, Docker, GitHub Actions, GitLab, Linux, Nginx" />
+
+**Learning, with hands-on labs**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana" alt="Kubernetes, Prometheus, Grafana" />
