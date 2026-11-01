@@ -36,8 +36,4 @@ Java Backend Engineer with 3 years across interbank payments, digital signature,
 
 **Cloud and DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,linux,nginx" alt="AWS, Docker, GitHub Actions, GitLab, Linux, Nginx" />
-
-**Learning, with hands-on labs**
-
-<img src="https://skillicons.dev/icons?i=kubernetes,prometheus,grafana" alt="Kubernetes, Prometheus, Grafana" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,prometheus,grafana,linux,nginx" alt="AWS, Docker, Kubernetes, GitHub Actions, GitLab, Prometheus, Grafana, Linux, Nginx" />
